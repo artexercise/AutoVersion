@@ -19,6 +19,7 @@ namespace Versioning
              * 
              * Interesting!
              * So this project is an example of automatic versioning.
+             * If the Pre-Build Directory indicated doesn't match yours, then find the TextTransform.exe
              */
             System.Diagnostics.Debug.WriteLine("Version Testing.");
             Console.WriteLine("Version Testing.\n\r");
